@@ -1,0 +1,392 @@
+[
+  {
+    "file": "code/consolidate_chirps.R",
+    "bytes": 964,
+    "sha256": "cd04854d51fdfc170b4a46e7a96b92623e9a081870a6d9b42fc67ba7151a469b"
+  },
+  {
+    "file": "code/gee_final_indicator.js",
+    "bytes": 3965,
+    "sha256": "f12191ded9e9360c6b9d0f4edd8800febd21c8bd2e950ceb74e9d9e43f69ec06"
+  },
+  {
+    "file": "code/summarise_tables.R",
+    "bytes": 1549,
+    "sha256": "622eaa524eb19edaa4a5d580e1398a2159d88c9525a77f34cc9b492fdb86dc3e"
+  },
+  {
+    "file": "data/chirps_monthly/2020_02_Cuenca.xlsx",
+    "bytes": 4600,
+    "sha256": "b9eb0c6e7462d3ed026061bd9759d9de0084c2df50b4bf20affbe34eb6c928a8"
+  },
+  {
+    "file": "data/chirps_monthly/2020_02_Roi.xlsx",
+    "bytes": 3448,
+    "sha256": "b2363a94324124e55a2a7e32f19e83c84dddb12e0d0f0770e335c6b64edf35d7"
+  },
+  {
+    "file": "data/chirps_monthly/2020_03_Cuenca.xlsx",
+    "bytes": 4582,
+    "sha256": "968f764ba326a9acd71cf642cdba561580d7ea4b1a8ffd036a703058edda95ed"
+  },
+  {
+    "file": "data/chirps_monthly/2020_03_Roi.xlsx",
+    "bytes": 3432,
+    "sha256": "c2de905001ee4c32844aff23b6e7aa166fca0d223c74c34e137f5c6dc358ab9e"
+  },
+  {
+    "file": "data/chirps_monthly/2020_04_Cuenca.xlsx",
+    "bytes": 5041,
+    "sha256": "d0f7ac0a4bf5d258135b52558ea00dcd89940a91a3c4f46336d22cf984ae51ab"
+  },
+  {
+    "file": "data/chirps_monthly/2020_04_Roi.xlsx",
+    "bytes": 3490,
+    "sha256": "fc1df4f57d8a00111bfb17d2c07ecee0bb4857f39268f2b65c081547bb33df3a"
+  },
+  {
+    "file": "data/chirps_monthly/2020_05_Cuenca.xlsx",
+    "bytes": 5748,
+    "sha256": "7dc75f46b003c93e2b70d5a49d5014e0d1646e304cc17c9d02c2c8d00b82515b"
+  },
+  {
+    "file": "data/chirps_monthly/2020_05_Roi.xlsx",
+    "bytes": 3559,
+    "sha256": "acdf1367f1734db87af24955f45d56fcfa1ce2536ca78fe3ca8d94484e63da9a"
+  },
+  {
+    "file": "data/chirps_monthly/2020_08_Cuenca.xlsx",
+    "bytes": 5985,
+    "sha256": "9a331b19078b3343681fe32c985399415dbbc36be32009fca2247d3d25d68f23"
+  },
+  {
+    "file": "data/chirps_monthly/2020_08_ROI.xlsx",
+    "bytes": 3583,
+    "sha256": "db7312b928524deafcfb9c2faa97cf094f3a617ac040c551e31ade7547759495"
+  },
+  {
+    "file": "data/chirps_monthly/2020_09_Cuenca.xlsx",
+    "bytes": 5870,
+    "sha256": "4e97a7c6cbba155106f3f74422094d52e316010b3daab41c352cc17278fac114"
+  },
+  {
+    "file": "data/chirps_monthly/2020_09_ROI.xlsx",
+    "bytes": 3558,
+    "sha256": "755e548dd82961d5a1f87f2324c8b8415b05aa14090232468b85afbc57330ffd"
+  },
+  {
+    "file": "data/chirps_monthly/2020_10_Cuenca.xlsx",
+    "bytes": 5915,
+    "sha256": "3d71e17ee9978705b9a7ebd3d08a2208a2dac3988b6ca7b8ed7ad44c0e924ec6"
+  },
+  {
+    "file": "data/chirps_monthly/2020_10_ROI.xlsx",
+    "bytes": 3561,
+    "sha256": "c47afa010729c3e19fd5934ebe45fafe850f40fd9be3b6932cc9aecd2d1e7165"
+  },
+  {
+    "file": "data/chirps_monthly/2020_11_Cuenca.xlsx",
+    "bytes": 11788,
+    "sha256": "1cf2535758f8998cd83ced471f90f68b95353c34b39ec08b931c54bcc7bddbdd"
+  },
+  {
+    "file": "data/chirps_monthly/2020_11_ROI.xlsx",
+    "bytes": 3561,
+    "sha256": "eb8d15d636089d37292ed4bfb959f6ba786bbb3b25a655bcd8bdacd28021d234"
+  },
+  {
+    "file": "data/chirps_monthly/2021_02_Cuenca.xlsx",
+    "bytes": 4766,
+    "sha256": "07d901c3afc5e2b700f7472b7396d305d2eb316f080bc27e80e2e73d2bc9b5a9"
+  },
+  {
+    "file": "data/chirps_monthly/2021_02_Roi.xlsx",
+    "bytes": 3426,
+    "sha256": "8007fc02a16cfb66e206d2f4331c84333394ee4f20273f5ccff440f744a2326f"
+  },
+  {
+    "file": "data/chirps_monthly/2021_03_Cuenca.xlsx",
+    "bytes": 4611,
+    "sha256": "958ac4dea2f74de2723c27630320599d70c90530c0c2b1db9e7a10208f10871a"
+  },
+  {
+    "file": "data/chirps_monthly/2021_03_Roi.xlsx",
+    "bytes": 3441,
+    "sha256": "392f050b418ce27e8661a0ef5ff900b6e2f371f04a5d9509c859f88337f4eaf3"
+  },
+  {
+    "file": "data/chirps_monthly/2021_04_Cuenca.xlsx",
+    "bytes": 5820,
+    "sha256": "2fb9093b344b83ee01afc76202ad24f94f27e6aa5f577b04c7e5dc84b386d259"
+  },
+  {
+    "file": "data/chirps_monthly/2021_04_Roi.xlsx",
+    "bytes": 3570,
+    "sha256": "b972b9fec06b68d28c9a48f624ba348c8135f586e403f8ccecf9067b9ce0cb16"
+  },
+  {
+    "file": "data/chirps_monthly/2021_05_Cuenca.xlsx",
+    "bytes": 5761,
+    "sha256": "465068d3a959da423c27cff6391ac792d74c2093b72f507df2c0e9742545f778"
+  },
+  {
+    "file": "data/chirps_monthly/2021_05_Roi.xlsx",
+    "bytes": 3564,
+    "sha256": "08cd0bad9da528f2848e4cf907443fa582ff7ac2e2848cf66750669b5c41e81e"
+  },
+  {
+    "file": "data/chirps_monthly/2021_08_Cuenca.xlsx",
+    "bytes": 5985,
+    "sha256": "611c6f790c7c659979fa3f89777583b1bd8d1752e901ce91e7606f1c9aa8e566"
+  },
+  {
+    "file": "data/chirps_monthly/2021_08_ROI.xlsx",
+    "bytes": 3583,
+    "sha256": "29a506b3e114805b541a3856e9ddce637c222180e27000463de5cfa68ead78b1"
+  },
+  {
+    "file": "data/chirps_monthly/2021_09_Cuenca.xlsx",
+    "bytes": 5794,
+    "sha256": "c51dee0741fa71c82683212fc3429c81ebad9ab8ba8ae5375b989623a37a47d7"
+  },
+  {
+    "file": "data/chirps_monthly/2021_09_ROI.xlsx",
+    "bytes": 3560,
+    "sha256": "c9de45516d1f09b9cb6357d2f796cf8f0df1aedb94b8f5962d1e047e1821e9fc"
+  },
+  {
+    "file": "data/chirps_monthly/2021_10_Cuenca.xlsx",
+    "bytes": 5873,
+    "sha256": "abd78bb96e05319efa061db6d7c0dbda6ec3d471f124db75aabcba61f3b5db05"
+  },
+  {
+    "file": "data/chirps_monthly/2021_10_ROI.xlsx",
+    "bytes": 3570,
+    "sha256": "b64c54071949037be16fc80cc5e08453ae0ebf77342ddf32167d40e30b167807"
+  },
+  {
+    "file": "data/chirps_monthly/2021_11_Cuenca.xlsx",
+    "bytes": 5430,
+    "sha256": "fa342a771b0d764415c1b280222e91b91ea3ac567e7005bab6029326f8d498e3"
+  },
+  {
+    "file": "data/chirps_monthly/2021_11_Roi.xlsx",
+    "bytes": 3525,
+    "sha256": "ff49601b3f1c6069d87e6b775e84bcd71199b0beec7d9bfc76d589a0907db475"
+  },
+  {
+    "file": "data/chirps_monthly/2022_02_Cuenca.xlsx",
+    "bytes": 4684,
+    "sha256": "2f43679f2cb19383e0cd613586ffe135b92cd2afd3c73ec7c90745b4905fa3d5"
+  },
+  {
+    "file": "data/chirps_monthly/2022_02_Roi.xlsx",
+    "bytes": 3426,
+    "sha256": "8bee5117b21b1cc01c037a27db0715fd2d5a79bcaccee2cab7e2e29fa37a7d4c"
+  },
+  {
+    "file": "data/chirps_monthly/2022_03_Cuenca.xlsx",
+    "bytes": 4703,
+    "sha256": "1ce791d0700f5786ea48019df25bfe4248fd12d694cd251fddc89381373b0fa0"
+  },
+  {
+    "file": "data/chirps_monthly/2022_03_Roi.xlsx",
+    "bytes": 3431,
+    "sha256": "88919f8c0a66820baac63270ce938f77b8b29bdd9bcb4bf7e5ea01cec87e5c9e"
+  },
+  {
+    "file": "data/chirps_monthly/2022_04_Cuenca.xlsx",
+    "bytes": 5673,
+    "sha256": "9690784109eca200c4c5941d057bbaace2f1521ba01c249b0ea3803992075a61"
+  },
+  {
+    "file": "data/chirps_monthly/2022_04_Roi.xlsx",
+    "bytes": 3525,
+    "sha256": "19b197ff0ed1d7e28c60c340ad866fb1024075b0f353cbff3d4cbe82f69212fd"
+  },
+  {
+    "file": "data/chirps_monthly/2022_05_Cuenca.xlsx",
+    "bytes": 5830,
+    "sha256": "6d50be11fbabf62152f48867c21ac560460d559c9411ae46c3687ce2269620bb"
+  },
+  {
+    "file": "data/chirps_monthly/2022_05_Roi.xlsx",
+    "bytes": 3571,
+    "sha256": "144de295c760d44395b623ae69e13e4fd93614d921037366a061dfd732092b55"
+  },
+  {
+    "file": "data/chirps_monthly/2022_08_Cuenca.xlsx",
+    "bytes": 5886,
+    "sha256": "5687502aef566e4be0e3d48eb139148445b6b1d6e0c2f679fe46fbab54d2926e"
+  },
+  {
+    "file": "data/chirps_monthly/2022_08_Roi.xlsx",
+    "bytes": 3575,
+    "sha256": "33f7651f79803b19674f8a99672cc09fde33b35a38571874892615b82ce9b8a8"
+  },
+  {
+    "file": "data/chirps_monthly/2022_09_Cuenca.xlsx",
+    "bytes": 5873,
+    "sha256": "dfdfbd8fb9d8cb635b265c32c120fde34c9da5107a692b22392715bca7625a7b"
+  },
+  {
+    "file": "data/chirps_monthly/2022_09_Roi.xlsx",
+    "bytes": 3562,
+    "sha256": "1a7091fc1d9e9d524241c96321db08e482ddc66cf0961bbcf1840f6dff9ea68c"
+  },
+  {
+    "file": "data/chirps_monthly/2022_10_Cuenca.xlsx",
+    "bytes": 5653,
+    "sha256": "d9ff33e7a751ea9b8f0bf0dd05c9ecd8ec2f12b16788f0ed7eca039aa827de8a"
+  },
+  {
+    "file": "data/chirps_monthly/2022_10_Roi.xlsx",
+    "bytes": 3553,
+    "sha256": "76ecfe9b39f6b226c4294f90fc3d83e71f872e4a9f08eab29ff87f787b241bb3"
+  },
+  {
+    "file": "data/chirps_monthly/2022_11_Cuenca.xlsx",
+    "bytes": 5958,
+    "sha256": "381c2b450ec676ccac88e8bc2c40b319b7f329eb1093c020da67568dad29a090"
+  },
+  {
+    "file": "data/chirps_monthly/2022_11_Roi.xlsx",
+    "bytes": 3581,
+    "sha256": "fda0eddb530131dde5f6c8c17ddef4fc3ca343e45c90225dbacd40e04abf1955"
+  },
+  {
+    "file": "data/chirps_monthly/2023_02_Cuenca.xlsx",
+    "bytes": 4777,
+    "sha256": "405ab1efb567f11530e2738115b8174c92cd4c2fc3ab5839b4cc2fd25b1e4eef"
+  },
+  {
+    "file": "data/chirps_monthly/2023_02_Roi.xlsx",
+    "bytes": 3420,
+    "sha256": "f0b65c9919708694f1912f231898ef7ad0cf9b2ecaeeafdb4036e9b186192616"
+  },
+  {
+    "file": "data/chirps_monthly/2023_03_Cuenca.xlsx",
+    "bytes": 5397,
+    "sha256": "5352e63113ef69743916b46b1bbfaa46ff0dceb29ea38f4b107296a847c650c1"
+  },
+  {
+    "file": "data/chirps_monthly/2023_03_Roi.xlsx",
+    "bytes": 3535,
+    "sha256": "ad26aa014549694ab7bf35b218ec7db469175fd976c48f15c90fd2b4651ce414"
+  },
+  {
+    "file": "data/chirps_monthly/2023_04_Cuenca.xlsx",
+    "bytes": 5439,
+    "sha256": "dbfea68bf101c33dd1f9166b0ec716f07e0a193ad947d4f841196e5acec4f338"
+  },
+  {
+    "file": "data/chirps_monthly/2023_04_Roi.xlsx",
+    "bytes": 3499,
+    "sha256": "1b1fefb00238863a4692e2bb74b923ede300214eb9db4259c04be19a4b467226"
+  },
+  {
+    "file": "data/chirps_monthly/2023_05_Cuenca.xlsx",
+    "bytes": 5742,
+    "sha256": "dbb8bb805df7efdbc5f82bd23e25eae1544a87cf784263757a54f0c39e63c384"
+  },
+  {
+    "file": "data/chirps_monthly/2023_05_Roi.xlsx",
+    "bytes": 9289,
+    "sha256": "2ff7d8371f53a3d61b9e74ebd30b0e8b61bcaca142d1359609fd359b5218d7ad"
+  },
+  {
+    "file": "data/chirps_monthly/2023_08_Cuenca.xlsx",
+    "bytes": 5805,
+    "sha256": "9cf88dc4979b0d2dd1ff04a0b7bb0f217bda9c51de3d700b7086d4dc3a23a3a7"
+  },
+  {
+    "file": "data/chirps_monthly/2023_08_Roi.xlsx",
+    "bytes": 3543,
+    "sha256": "5d3ff3156b812895f4c226280455fe6519692be09f7b910dd5535c3bccc007bc"
+  },
+  {
+    "file": "data/chirps_monthly/2023_09_Cuenca.xlsx",
+    "bytes": 5825,
+    "sha256": "4511b362434ba3b3f8384459368a479bd6aea8cf563e354185d75d2cb82a5b00"
+  },
+  {
+    "file": "data/chirps_monthly/2023_09_Roi.xlsx",
+    "bytes": 3564,
+    "sha256": "0c063f6598d249060ff6cef5b1cfcf76f937d44385144f41764efaca583541c2"
+  },
+  {
+    "file": "data/chirps_monthly/2023_10_Cuenca.xlsx",
+    "bytes": 5899,
+    "sha256": "b1da14456674221c936417ed187df0c51f455e90c83653e7b32ea55e0ec523f8"
+  },
+  {
+    "file": "data/chirps_monthly/2023_10_Roi.xlsx",
+    "bytes": 3572,
+    "sha256": "ce4422d8910d2e32b349f933e8c94e6d36e2ff3256685bf76396635c7bb959c9"
+  },
+  {
+    "file": "data/chirps_monthly/2023_11_Cuenca.xlsx",
+    "bytes": 5936,
+    "sha256": "87f7da10ad3a046b31912e29404169dcd07aacc4532e51afdbdef1df55486698"
+  },
+  {
+    "file": "data/chirps_monthly/2023_11_Roi.xlsx",
+    "bytes": 3565,
+    "sha256": "3cabfc575b44212d46407f67c7f828ed11f353af1452715e4905830d104f4ea5"
+  },
+  {
+    "file": "data/seasonal_results.csv",
+    "bytes": 627,
+    "sha256": "93f9ac49f41ab8cd9550dabbaa3c3d9592dc1b62f0eba7fe90d752020ec07311"
+  },
+  {
+    "file": "data/type_seasonal_results.csv",
+    "bytes": 2545,
+    "sha256": "87eb114a762e5e5a9b4f011c4547dbf7f095d00d5788a922797023e19974af9d"
+  },
+  {
+    "file": "data/wetland_inventory.geojson",
+    "bytes": 1579298,
+    "sha256": "5a18419b0deb066e4f8db34de47af90502d0c47340aacbce52b4a05e48deec81"
+  },
+  {
+    "file": "data/wetland_inventory_shp/Humedales_Estudio.cpg",
+    "bytes": 5,
+    "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  {
+    "file": "data/wetland_inventory_shp/Humedales_Estudio.dbf",
+    "bytes": 203542,
+    "sha256": "604dea2b6ab81fb4f260f7e9df354bd27645768d25bb0ccb9355a294713fc13b"
+  },
+  {
+    "file": "data/wetland_inventory_shp/Humedales_Estudio.prj",
+    "bytes": 390,
+    "sha256": "bdad0ab0fb9a1bfe2fa5b2cd1ca1f39bcdcf41f6f9fd08a9f2fed15b4e6369b1"
+  },
+  {
+    "file": "data/wetland_inventory_shp/Humedales_Estudio.shp",
+    "bytes": 555340,
+    "sha256": "796f92bee4d38a951528a5e0ebd36abe2e78b7badb7ed923db1763126055bb81"
+  },
+  {
+    "file": "data/wetland_inventory_shp/Humedales_Estudio.shx",
+    "bytes": 412,
+    "sha256": "ab90c509dd361bc6348ae103475eca9a25667d1daf75c29740bda8ced55a9804"
+  },
+  {
+    "file": "expected_outputs/sensor_2020.json",
+    "bytes": 986,
+    "sha256": "8cacd988a6a88ada17a7502413cbaa51ae257c25dbdb13f0669088c1c03b3d1c"
+  },
+  {
+    "file": "expected_outputs/type_reductions_original.json",
+    "bytes": 7785,
+    "sha256": "6090a13b2903e62abbad5c00fe3003f8056260185d779a38ac6738d375749f86"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3811,
+    "sha256": "b2a847d025dea2842661528d09d2c22e8abbc64055ddf196fb88b9a736556cdf"
+  }
+]

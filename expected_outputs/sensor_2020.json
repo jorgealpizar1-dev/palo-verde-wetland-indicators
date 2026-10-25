@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-23",
+  "source": "Earth Engine Code Editor, authenticated user session, TABLE4_EXACT console output",
+  "method": "Same collections, filters, compositing, Cloud Score+ cs_cdf >=0.60, rules and EPSG:5367 10 m reductions as codigo/04_corrida_final_cs060_GEE.js; individual reductions for valid support, SAR, optical I>=35 and integrated indicators",
+  "seca": {
+    "year": 2020,
+    "integrated_ha": 768.4304276550089,
+    "optical_ha": 3478.70950180908,
+    "sar_ha": 3262.269918089477,
+    "valid_ha": 16955.393164543257
+  },
+  "lluviosa": {
+    "year": 2020,
+    "integrated_ha": 12980.998219431207,
+    "optical_ha": 15083.502863357942,
+    "sar_ha": 13415.959134791445,
+    "valid_ha": 16955.393164543257
+  },
+  "note": "Both integrated values reproduce the stored final-run areas at the manuscript's one-decimal precision. Dry optical area is corrected from 3478.4 to 3478.7 ha. No accuracy labels or reference observations are created by this calculation."
+}

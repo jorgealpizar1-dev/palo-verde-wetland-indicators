@@ -1,0 +1,297 @@
+{
+  "method": "Final GEE workflow; CS+ cs_cdf >= 0.60; dissolved inventory units; area-weighted type values = sum(flood_ha)/sum(area_ha) for each year-season; Table 5 reports mean and min-max across 2020-2023.",
+  "type_year_season": [
+    {
+      "tipo_hum": "Palustre",
+      "year": 2020,
+      "season": "seca",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 39.11511642182897,
+      "pct": 0.5873467236572073
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2020,
+      "season": "lluviosa",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 4170.946450904671,
+      "pct": 62.630306556402324
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2021,
+      "season": "seca",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 105.61489693603518,
+      "pct": 1.5858974575403635
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2021,
+      "season": "lluviosa",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 3043.5603861955506,
+      "pct": 45.701646437825794
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2022,
+      "season": "seca",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 71.2534835523627,
+      "pct": 1.0699316259809835
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2022,
+      "season": "lluviosa",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 3652.3889302263697,
+      "pct": 54.84372457327338
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2023,
+      "season": "seca",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 164.00512470368932,
+      "pct": 2.4626763632472777
+    },
+    {
+      "tipo_hum": "Palustre",
+      "year": 2023,
+      "season": "lluviosa",
+      "area_ha": 6659.629626989747,
+      "flood_ha": 3274.1859058466084,
+      "pct": 49.16468466320086
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2020,
+      "season": "seca",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 48.354776858412684,
+      "pct": 32.95012014788803
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2020,
+      "season": "lluviosa",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 139.85226741993768,
+      "pct": 95.29873393759225
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2021,
+      "season": "seca",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 117.3964979785983,
+      "pct": 79.99682688357024
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2021,
+      "season": "lluviosa",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 138.42030651198567,
+      "pct": 94.32296097306684
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2022,
+      "season": "seca",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 111.82210726690757,
+      "pct": 76.19830157469943
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2022,
+      "season": "lluviosa",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 141.0374876444451,
+      "pct": 96.10637180372443
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2023,
+      "season": "seca",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 123.8290841344633,
+      "pct": 84.38014742536521
+    },
+    {
+      "tipo_hum": "Lacustre",
+      "year": 2023,
+      "season": "lluviosa",
+      "area_ha": 146.75144321594237,
+      "flood_ha": 136.72945100924747,
+      "pct": 93.1707709395759
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2020,
+      "season": "seca",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 681.0870711829749,
+      "pct": 6.702465726643965
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2020,
+      "season": "lluviosa",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 8675.120343961826,
+      "pct": 85.37043094787404
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2021,
+      "season": "seca",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 828.2548166829074,
+      "pct": 8.150719278965125
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2021,
+      "season": "lluviosa",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 8313.893686869787,
+      "pct": 81.81565889133749
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2022,
+      "season": "seca",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 741.0968508375219,
+      "pct": 7.2930120876245885
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2022,
+      "season": "lluviosa",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 8358.686150980846,
+      "pct": 82.256454155583
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2023,
+      "season": "seca",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 706.0014990171708,
+      "pct": 6.947644508804081
+    },
+    {
+      "tipo_hum": "Estuarino",
+      "year": 2023,
+      "season": "lluviosa",
+      "area_ha": 10161.738962356567,
+      "flood_ha": 7654.070067032956,
+      "pct": 75.32244328836737
+    }
+  ],
+  "shrimp_nested_subset": [
+    {
+      "year": 2020,
+      "season": "seca",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 65.86644597643084,
+      "pct": 75.47442055406474
+    },
+    {
+      "year": 2020,
+      "season": "lluviosa",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 86.77037803078134,
+      "pct": 99.42762063515308
+    },
+    {
+      "year": 2021,
+      "season": "seca",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 68.66104747570563,
+      "pct": 78.67667210582995
+    },
+    {
+      "year": 2021,
+      "season": "lluviosa",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 79.04534025027115,
+      "pct": 90.57572735931281
+    },
+    {
+      "year": 2022,
+      "season": "seca",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 63.22110512538234,
+      "pct": 72.44320238309608
+    },
+    {
+      "year": 2022,
+      "season": "lluviosa",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 77.25009753117587,
+      "pct": 88.51861160076551
+    },
+    {
+      "year": 2023,
+      "season": "seca",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 63.394668434062254,
+      "pct": 72.64208346674754
+    },
+    {
+      "year": 2023,
+      "season": "lluviosa",
+      "area_ha": 87.2698928894043,
+      "flood_ha": 79.00836976003909,
+      "pct": 90.53336396340613
+    }
+  ],
+  "summary": {
+    "Palustrine": {
+      "area_ha": 6659.629626989747,
+      "n_units": 19,
+      "dry_mean": 1.4264630426071114,
+      "dry_min": 0.5873467236572073,
+      "dry_max": 2.4626763632472777,
+      "wet_mean": 53.08509055768309,
+      "wet_min": 45.701646437825794,
+      "wet_max": 62.630306556402324
+    },
+    "Lacustrine": {
+      "area_ha": 146.75144321594237,
+      "n_units": 4,
+      "dry_mean": 68.38134900762078,
+      "dry_min": 32.95012014788803,
+      "dry_max": 84.38014742536521,
+      "wet_mean": 94.72470941348985,
+      "wet_min": 93.1707709395759,
+      "wet_max": 96.10637180372443
+    },
+    "Estuarine": {
+      "area_ha": 10161.738962356567,
+      "n_units": 10,
+      "dry_mean": 7.273460400503195,
+      "dry_min": 6.702465726643965,
+      "dry_max": 8.150719278965125,
+      "wet_mean": 81.19124682074735,
+      "wet_min": 75.32244328836737,
+      "wet_max": 85.37043094787404
+    },
+    "Managed shrimp ponds (nested subset)": {
+      "area_ha": 87.2698928894043,
+      "n_units": 2,
+      "dry_mean": 74.80909462743458,
+      "dry_min": 72.44320238309608,
+      "dry_max": 78.67667210582995,
+      "wet_mean": 92.26383088965937,
+      "wet_min": 88.51861160076551,
+      "wet_max": 99.42762063515308
+    }
+  }
+}
